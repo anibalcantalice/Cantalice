@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Aníbal Cantalice"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: publicações.qmd
+        text: Publicações 
+      - href: about.qmd
+        text: Sobre
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+        
+  page-footer: 
+      center: "Copyright © 2025, Aníbal Cantalice"
+      border: light
+
+format:
+  html:
+    theme:
+      - pulso
+    css: styles.css
+    toc: true
+
+editor: visual

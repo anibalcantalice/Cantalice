@@ -1,0 +1,10 @@
+---
+title: "Aníbal Cantalice"
+image: "monumento-do-cabeca-de-cuianone.webp.1200x0_q95_crop.jpg"
+about:
+  template: jolla
+---
+
+::: {style="text-align: justify;"}
+Graduado em Ciências Biológicas (Licenciatura) pela Universidade Federal do Piauí (UFPI, 2017),mestre em Desenvolvimento e Meio Ambiente (PRODEMA/UFPI) e doutor em Etnobiologia e Conservação da Natureza pela Universidade Federal Rural de Pernambuco (UFRPE). Minha pesquisa concentra-se nas interações entre seres humanos e o ambiente,com ênfase em abordagens macroetnobiológicas. Utilizo plantas medicinais como modelo para investigar padrões e processos sociobiológicos em múltiplas escalas, integrando técnicas quantitativas, análises geoespaciais e ferramentas da biologia evolutiva. Paralelamente à pesquisa, sou entusiasta da linguagem R e atuo no ensino de suas aplicações para manipulação, visualização e análise de dados tabulares e geográficos.
+:::
